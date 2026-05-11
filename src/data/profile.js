@@ -81,7 +81,7 @@ and worker services for asynchronous vote processing.
         "https://github.com/sanjeevtripurari/voting-app",
 
       youtube:
-        "https://www.youtube.com/embed/dQw4w9WgXcQ",
+        "https://youtu.be/qncHRRI5K04",
     }
   ]
 }
