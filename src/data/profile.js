@@ -49,7 +49,7 @@ meetups, hackathons and training sessions.
     "https://github.com/sanjeevtripurari",
 
   linkedin:
-    "https://linkedin.com",
+    "https://www.linkedin.com/in/sanjeevtripurari/",
 
   resume:
     "/resume.pdf",
