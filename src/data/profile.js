@@ -1,84 +1,61 @@
 const profile = {
-  name: "Sanjeev Tripurari",
+  name: "Chandan M S",
 
   role:
-    "Consultant | Mentor | BigData | DevOps | System Design",
+    " Aspiring Cloud | DevOps ",
 
-  company:
-    "Co-Founder BintyByte Technologies, Softoria",
+
 
   about: `
-Experienced technology consultant with expertise in BigData, 
-Data Engineering, DevOps, Kubernetes, System Design and scalable platforms.
+Experienced technology consultant with expertise in DevOps, Kubernetes, System Design and scalable platforms.
 
-Worked with startups and enterprises including:
-Retort, Softoria, Cybertech, Rediff, AOL, Yahoo and InMobi.
-
-Passionate about mentoring students, conducting seminars,
-meetups, hackathons and training sessions.
   `,
 
-  experience: [
-    "Ex-Retort",
-    "Ex-Softoria",
-    "Ex-Cybertech",
-    "Ex-Rediff",
-    "Ex-AOL",
-    "Ex-Yahoo",
-    "Ex-InMobi"
-  ],
-
-  certifications: [
-    "Certified Cloudera Hadoop Administrator",
-    "Certified Agile Scrum Master"
-  ],
 
   expertise: [
-    "BigData",
-    "Data Engineering",
-    "Kafka",
     "DevOps",
     "Kubernetes",
     "System Design",
-    "Hadoop",
-    "Cassandra",
     "Cloud"
   ],
 
   github:
-    "https://github.com/sanjeevtripurari",
+    "https://github.com/Chandanmsreddy",
 
   linkedin:
-    "https://www.linkedin.com/in/sanjeevtripurari/",
+    "https://www.linkedin.com/in/chandan-m-s/",
 
   resume:
     "/resume.pdf",
 
   projects: [
     {
-      title: "Voting Application",
+      title: "Cloud Automation",
 
       overview:
-        "A full-stack voting application deployed using Docker and Kubernetes.",
+        "An automated cloud infrastructure deployment project using Terraform, AWS, Docker, and GitHub Actions.",
 
       technical:
         `
-Implemented scalable voting architecture using multiple services.
-Application includes frontend, backend, Redis, PostgreSQL
-and worker services for asynchronous vote processing.
-        `,
+Implemented Infrastructure as Code (IaC) to provision and manage AWS resources automatically.
+Integrated GitHub Actions for CI/CD automation including Terraform validation and deployment workflows.
+Configured AWS provider, Terraform modules, and automation scripts for scalable cloud provisioning.
+Used Docker and Linux shell scripting to streamline deployment and environment setup.
+      `,
 
       techStack: [
+        "Terraform",
+        "AWS",
+        "GitHub Actions",
         "Docker",
-        "Kubernetes",
-        "Redis",
-        "PostgreSQL",
-        "Python",
-        "Node.js"
+        "Linux",
+        "Shell Scripting",
+        "CI/CD",
+        "Git"
       ],
 
       github:
-        "https://github.com/sanjeevtripurari/voting-app",
+        "https://github.com/Chandanmsreddy/cloud-automation.git",
 
       youtube:
         "https://youtu.be/qncHRRI5K04",
